@@ -1,5 +1,5 @@
 # long-animation
-一镜到底动画
+[一镜到底动画](https://juejin.cn/post/6927211909938675720/)
 ## Project setup
 ```
 yarn install
