@@ -1,8 +1,7 @@
 # long-animation
 [一镜到底动画](https://juejin.cn/post/6927211909938675720/)
 
-![1.gif](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c64484565fb94e2595ef7cf8d1584fba~tplv-k3u1fbpfcp-watermark.image)
-
+![1](https://user-images.githubusercontent.com/26473539/158600846-6017923b-c42a-40e1-9dd8-36322cfe87c3.gif)
 
 ## Project setup
 ```
